@@ -1,0 +1,87 @@
+<!╌ 
+This code for picture slider on your Blog post
+╌> 
+
+
+<div>
+<meta content="width=device-width, initial-scale=1" name="viewport"></meta>
+<link href="https://www.w3schools.com/w3css/4/w3.css" rel="stylesheet"></link>
+<style>
+.mySlides {display:none;}
+</style>
+<body>
+
+<h2 class="w3-center">Testimoni</h2>
+
+<div class="w3-content w3-display-container">
+
+  <div class="w3-display-container mySlides">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIdZT5CeP876X5_7iJG8GKGitU6uflc2O5PQ9Xte8If9XrK9R9yWT7vGlO6KefTvge-EhTHyOiZlPosfcHpzcU1h73_qZH7QI-RjiJ966lYXAUbf60foLKSqev3GffN6obeKTyU4rfFEwkqmjAEZyzZDxhrLhgHKihslTnOmfUin_746r2KrDCXNJK_g/s1280/Screenshot%202022-09-19%20at%2014.01.08.jpg" style="width: 100%;" />
+  <div class="w3-display-bottomright w3-large w3-container w3-padding-16 w3-transparent">
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5glB2pXjhMHmrB0EAasT8WyizuDOtjcItf8irr1U3rjBLZd-Lgsz1Ufa1tWkRhXyV5JqwvUphdud5DWv-ykGCdBtfzDsjXyz9_Uia7qbAgmyy2XZnyzVvBAAQ48XVHbVYSMliUPpBv2Sju3ZaiqkaKa3ih8AUmT36tW4ajbt_CZkuTVb20_C1M686Rg/s1280/Screenshot%202022-09-19%20at%2014.01.11.jpg" style="width: 100%;" />
+  </div>
+</div>
+  
+  <div class="w3-display-container mySlides">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_3hvca5_ZyMv2BQtrlA2NgkN77TNuDRXEZeqGWG26xRxcxMQPJ68jsSi0UIoiqGX7toMIPZizARaK5RbLQmMMW2mKzDDj_S6P_CSYIgCHRyVM3gsBAm2pMpQ53GxdkAOR-aEW72rRKsld6OfjBLVAE3j5-OeXAJYCqIYBZp_bBqkJqvXVED2v8v326A/s1280/Screenshot%202022-09-19%20at%2014.01.14.jpg" style="width: 100%;" />
+  <div class="w3-display-bottomright w3-large w3-container w3-padding-16 w3-transparent">
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNL2UKGrunK2OmARJspWMykAfwnu1MRZEKsNVl7xc3vg3Fl5pJfcGFqWe-aiYzT1TSM7kTthGJZzn4XqzYTeSENqQS9Ig2nIP34vN5QB3bxAZxhUjRzXwW5bvvE5ETxKTKQUY56SdG8dUznGFTD1iUpmnDHLU9GNV89JKBcy6m1p7I7jEPmqeB6U5qCg/s1280/Screenshot%202022-09-19%20at%2014.01.16.jpg" style="width: 100%;" />
+  </div>
+</div>
+  
+  <div class="w3-display-container mySlides">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_zzKovyEXly3O8-kQJDyb0P0XhkAJbQ6eNkwxNr35HidWu4mX2IS0l3qIo2QE8f8ALsermZbO_AIf5XvnG-Gd7aYEcZz7XubWr--xVHq-W5NaO3vW2AkqxHVKeXdZaNnFFzDaVuufAx_GKPeDJlzuJiCRXm6ddvG3iZLCeXugBxmws9gutTl23dcq-A/s1280/Screenshot%202022-09-19%20at%2014.01.20.jpg" style="width: 100%;" />
+  <div class="w3-display-bottomright w3-large w3-container w3-padding-16 w3-transparent">
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5cz6fleXPqT9GMAyFY0Wrmyaj9nDbqy9UdItlyiRlXBa4iUotigym8-9j5IM3otFkFywwIwdSJLoYiU0OJyKQxAC8ZDuIJU4Q2x-6qkHeT9RV4F6LkoRb4e2S8lcAEfxrZoc9GBxFw6hbmkjnwaXcNOlzpdQWm06bxKt5pVYUnP0OmQUBIkDxYMHWtg/s1280/Screenshot%202022-09-19%20at%2014.02.14.jpg" style="width: 100%;" />
+  </div>
+</div>
+  
+  <div class="w3-display-container mySlides">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMzD7ewOrucqYyskHqU3EcdZDnoB9MOZ1EoSNkPVKmEn8ELWV8wHbevvNf-mTY_9cq9-Qi2rFXLpC4p3rDaU7dCVyGwtvnF_PnhbaLg_TOkB33WLmGjE4PjyZZPBr_Cl94d4MaUNtv9NToM5-YiQrp-pB-Pws5mGK52Cf2aC6OvAj5vWTVYTDUCK91cA/s1280/Screenshot%202022-09-19%20at%2014.03.00.jpg" style="width: 100%;" />
+  <div class="w3-display-bottomright w3-large w3-container w3-padding-16 w3-transparent">
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKiC8mvQl1oaV2f9KGiHkzPSw70HN___XI0-nlYAe6sSLc3JQ7Ky1QOacHJiXoFjcJoJjFQZ5gfxxm2Np1P9pdZ7F6SgCKiymNTlntWplc7Jt_rtBsMpEPEjxZF5Fob_2IZts6qu1uc_-xrN0gCgQZoXTtBQO8HKmuaZQ8Kj0-Axp7ujOjaoYw5Uefxw/s1280/Untitled%20design%20(1).jpeg" style="width: 100%;" />
+  </div>
+</div>
+
+<button class="w3-button w3-display-left w3-black" onclick="plusDivs(-1)">❮</button>
+<button class="w3-button w3-display-right w3-black" onclick="plusDivs(1)">❯</button>
+
+</div>
+<script>
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  if (n > x.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+     x[i].style.display = "none";  
+  }
+  x[slideIndex-1].style.display = "block";  
+}
+</script>
+  
+  <script>
+var slideIndex = 0;
+carousel();
+
+function carousel() {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none"; 
+  }
+  slideIndex++;
+  if (slideIndex > x.length) {slideIndex = 1} 
+  x[slideIndex-1].style.display = "block"; 
+  setTimeout(carousel, 3000); 
+}
+</script>
+</body>
+</div>
